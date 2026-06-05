@@ -2,6 +2,7 @@ This repostory contians index of plugins for Combined-Character-Archive. People 
 
 To install paste link to Idex in CCA app "Get Content" tab
 
+To download CCA App use this link: [Github.com - Combined Character Archive](https://github.com/ks00908/Combined-Character-Archive)
 
 ## Systems List
 
